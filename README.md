@@ -36,6 +36,8 @@ Stellen Sie sicher, dass Sie Python und `pip` auf Ihrem Computer installiert hab
 
 **Schritte zur Ausführung des Projekts:**
 
+*Setzen Sie Ihren API Key in apikey.py mit einem beliebigen Texteditor*
+
 Führen Sie folgenden Befehl aus
 ```
 python main.py
