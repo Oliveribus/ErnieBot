@@ -8,7 +8,7 @@ Stellen Sie sicher, dass Sie Python und `pip` auf Ihrem Computer installiert hab
 
 **Schritte zur Installation:**
 
-1. **Klonen Sie das Repository:** Öffnen Sie ein Terminalfenster (auf MacOS oder Linux) oder eine Eingabeaufforderung (auf Windows) und navigieren Sie zu dem Ordner, in dem Sie das Projekt speichern möchten. Geben Sie dann den folgenden Befehl ein, um das Repository zu klonen (ersetzen Sie `your-repository-url` durch die URL Ihres tatsächlichen Repositories):
+1. **Klonen Sie das Repository:** Öffnen Sie ein Terminalfenster (auf MacOS oder Linux) oder eine Eingabeaufforderung (auf Windows) und navigieren Sie zu dem Ordner, in dem Sie das Projekt speichern möchten.
 
     ```
     git clone https://github.com/Oliveribus/ErnieBot.git
