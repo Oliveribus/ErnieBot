@@ -1,5 +1,5 @@
 import os
-import time
+import apikey
 from tkinter import filedialog, StringVar, DISABLED, NORMAL
 import threading
 import customtkinter as customtkinter
@@ -12,7 +12,7 @@ from gradio.components import Textbox
 from PIL import Image
 
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = apikey.APIKey
 thread = None
 
 _IS_MAC = platform.system() == 'Darwin'
