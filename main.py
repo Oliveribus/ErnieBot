@@ -10,7 +10,7 @@ from gradio import Interface
 from gradio.components import Textbox
 from PIL import Image
 
-f = open('key.txt')
+f = open('key.txt', 'r')
 APIKey = f.read()
 
 os.environ["OPENAI_API_KEY"] = APIKey
