@@ -11,7 +11,7 @@ from gradio.components import Textbox
 from PIL import Image
 
 f = open('key.txt', 'r')
-APIKey = f.read()
+APIKey = f.read().strip()
 
 os.environ["OPENAI_API_KEY"] = APIKey
 thread = None
