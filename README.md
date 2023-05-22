@@ -1,6 +1,6 @@
 # ErnieBot
 
-## Anleitung zur Installation und Ausführung des Python-Projekts
+## Anleitung zur Installation und Ausführung
 
 **Voraussetzungen:**
 
