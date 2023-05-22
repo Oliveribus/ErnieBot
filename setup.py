@@ -10,5 +10,6 @@ setup(
         "gradio~=3.30.0",
         "Pillow~=9.5.0",
         "setuptools~=65.5.1",
+        "llama_index~=0.6.7"
     ],
 )
