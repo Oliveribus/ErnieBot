@@ -4,7 +4,6 @@ from tkinter import filedialog, StringVar, DISABLED, NORMAL
 import threading
 import customtkinter as customtkinter
 import openai
-from tkinter import PhotoImage
 from llama_index import GPTVectorStoreIndex, SimpleDirectoryReader, StorageContext, load_index_from_storage
 import sys
 import platform
@@ -66,7 +65,6 @@ def VectorLoader():
 
 def query(input, index):
     query_engine = index.as_query_engine()
-    print(query_engine.query('Was ist die Äquivalenztheorie?'))
     return query_engine.query(input)
 
 

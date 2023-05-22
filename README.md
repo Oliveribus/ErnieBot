@@ -18,10 +18,8 @@ Stellen Sie sicher, dass Sie Python und `pip` auf Ihrem Computer installiert hab
 2. **Wechseln Sie in das Projektverzeichnis:** Wechseln Sie in das Verzeichnis, das durch das Klonen des Repositories erstellt wurde:
 
     ```
-    cd repo
+    cd ErnieBot
     ```
-
-    Ersetzen Sie `repo` durch den Namen Ihres tatsächlichen Repositories.
 
 
 3. **Installieren Sie die benötigten Python-Bibliotheken:** Führen Sie den folgenden Befehl aus, um die Python-Bibliotheken zu installieren, die Ihr Projekt benötigt:
@@ -40,7 +38,7 @@ Stellen Sie sicher, dass Sie Python und `pip` auf Ihrem Computer installiert hab
 
 Führen Sie folgenden Befehl aus
 ```
-python script.py
+python main.py
 ```
 
 
