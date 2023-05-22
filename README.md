@@ -36,7 +36,7 @@ Stellen Sie sicher, dass Sie Python und `pip` auf Ihrem Computer installiert hab
 5. Setzen Sie Ihren API Key in key.txt mit einem beliebigen Texteditor oder mit diesem Befehl.
 Ersetzen Sie dabei YOURAPIKEY durch Ihren OpenAI API-Key ohne Anführungszeichen.
    ```
-   echo YOURAPIKEY >> key.txt
+   echo YOURAPIKEY > key.txt
    ```
 **Schritte zur Ausführung des Projekts:**
 
